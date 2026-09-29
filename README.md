@@ -18,7 +18,7 @@ Currently Working On
 
 🔧 Jenkins
 
-☁️ AWS & Microsoft Azure
+☁️ AWS 
 
 💬 Ask Me About
 DevOps · Cloud · AWS · Azure · Docker · Kubernetes · CI/CD
