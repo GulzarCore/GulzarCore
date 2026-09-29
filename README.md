@@ -3,7 +3,7 @@ Hey Everyone 👋, I'm Gulzar Patel
 DevOps & Cloud Engineer
 <p> <a href="https://github.com/GulzarCore"> <img src="https://img.shields.io/github/followers/GulzarCore?style=flat-square&logo=github&label=GitHub%20Followers" alt="GitHub Followers"> </a> <a href="https://www.linkedin.com/in/patel-gulzar"> <img src="https://img.shields.io/badge/LinkedIn-Gulzar%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p> <img src="https://komarev.com/ghpvc/?username=GulzarCore&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"> </div>
 👨‍💻 About Me
-I'm Gulzar Patel, a DevOps & Cloud Engineer from India with 1 year of experience in cloud infrastructure, automation, CI/CD, and modern software delivery.
+I'm Gulzar Patel, a DevOps & Cloud Engineer from India with 1 year of experience in non IT, automation, CI/CD, and modern software delivery.
 
 I'm passionate about learning new technologies, building practical solutions, automating workflows, and growing my expertise in DevOps and Cloud.
 
